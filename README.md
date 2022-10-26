@@ -1,3 +1,3 @@
 This is the first line
-This is the second line
+This line was changed
 This is the third line
